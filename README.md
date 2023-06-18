@@ -14,7 +14,9 @@ Dubrovnik visitor
 - Photo *Međugorje* by Jeswin Thomas / Unsplash
 - Photo *Dubrovnik airport* by Ardfern / Wikimedia Commons
 - Photo *Airplane* by Djordje Kostic / Pexels
-- Photo *Travel Image* by Priscilla Du Preez / Unsplash
-- Photo *Sv. Stefan* by Oleg Gratilo / Unsplash
 - Photo *Budva* by Evgenij Dmitriev / Unsplash
+- Photo *Sv. Stefan* by Oleg Gratilo / Unsplash
+- Photo *Island Lopud* by dronepicr / Flickr
+- Photo *Beach Šunj on Lopud* by dronepicr / Flickr
+- Photo *Travel Image* by Priscilla Du Preez / Unsplash
 - Photo *Woman Taking Photo* by Charl van Rooy / Unsplash
